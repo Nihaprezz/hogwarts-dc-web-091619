@@ -138,3 +138,17 @@ ul {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+#root {
+  background: black;
+  color: white;
+}
+
+.content {
+  color: black;
+}
+
+.card {
+  /* animation: App-logo-spin infinite 6s linear; */
+  background: white;
+}
